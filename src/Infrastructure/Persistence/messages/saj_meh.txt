@@ -1,0 +1,7 @@
+1#{"message":"\u0483\u03cf\u043d\u03cf\u0447","sender":"meh","receiver":"saj","date":"2026-01-12 15:14:36"}
+2#{"message":"\u0482\u03ce\u043c\u03ce\u0446","sender":"meh","receiver":"saj","date":"2026-01-12 15:20:12"}
+3#{"message":"\u0483\u03cf\u043d\u03cf\u0447","sender":"meh","receiver":"saj","date":"2026-01-12 15:23:21"}
+4#{"message":"\u0482\u03ce\u043c\u03ce\u0446","sender":"meh","receiver":"saj","date":"2026-01-12 15:25:38"}
+5#{"message":"xfqfr","sender":"meh","receiver":"saj","date":"2026-01-12 15:30:44"}
+6#{"message":"wepeq","sender":"meh","receiver":"saj","date":"2026-01-12 16:23:58"}
+7#{"message":"lmmmm","sender":"meh","receiver":"saj","date":"2026-01-12 16:26:42"}
